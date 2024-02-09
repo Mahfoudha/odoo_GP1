@@ -1,0 +1,18 @@
+<odoo>
+    <data>
+<!--        <record id="view_service_form" model="ir.ui.view">-->
+<!--            <field name="name">gestion_patients.service.form</field>-->
+<!--            <field name="model">gestion_patients.service</field>-->
+<!--            <field name="arch" type="xml">-->
+<!--                <form string="Service du cabinet médical">-->
+<!--                    <sheet>-->
+<!--                        <group>-->
+<!--                            <field name="name"/>-->
+<!--                            &lt;!&ndash; Ajoutez d'autres champs ici &ndash;&gt;-->
+<!--                        </group>-->
+<!--                    </sheet>-->
+<!--                </form>-->
+<!--            </field>-->
+<!--        </record>-->
+    </data>
+</odoo>

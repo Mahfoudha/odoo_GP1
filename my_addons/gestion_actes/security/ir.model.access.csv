@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_gestion_patients_service,Service access,model_gestion_patients_service,base.group_user,1,1,1,1
+access_gestion_patients_doctor,Doctor access,model_gestion_patients_doctor,base.group_user,1,1,1,1
+access_gestion_patients_patient,Patient access,model_gestion_patients_patient,base.group_user,1,1,1,1
+access_gestion_patients_medical_act,Medical Act access,model_gestion_patients_medical_act,base.group_user,1,1,1,1
+access_gestion_patients_exam_document,Exam Document access,model_gestion_patients_exam_document,base.group_user,1,1,1,1
+access_gestion_patients_invoice,Invoice access,model_gestion_patients_invoice,base.group_user,1,1,1,1

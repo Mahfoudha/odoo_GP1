@@ -1,0 +1,20 @@
+<odoo>
+    <data>
+<!--        <record id="view_medical_act_form" model="ir.ui.view">-->
+<!--            <field name="name">gestion_patients.medical_act.form</field>-->
+<!--            <field name="model">gestion_patients.medical_act</field>-->
+<!--            <field name="arch" type="xml">-->
+<!--                <form string="Acte Médical">-->
+<!--                    <sheet>-->
+<!--                        <group>-->
+<!--                            <field name="name"/>-->
+<!--                            <field name="act_type"/>-->
+<!--                            <field name="amount"/>-->
+<!--                            &lt;!&ndash; Ajoutez d'autres champs ici &ndash;&gt;-->
+<!--                        </group>-->
+<!--                    </sheet>-->
+<!--                </form>-->
+<!--            </field>-->
+<!--        </record>-->
+    </data>
+</odoo>

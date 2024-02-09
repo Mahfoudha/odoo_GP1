@@ -1,0 +1,18 @@
+<odoo>
+    <data>
+        <record id="view_contact_form_inherit" model="ir.ui.view">
+            <field name="name">contact.form.inherit</field> <!-- Nom unique pour la vue des juges -->
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='function']" position="after">
+                    <field name="is_doctor"/>
+                    <field name="is_patient"/>
+                    <field name="speciality"/>
+                    <field name="birth_date"/>
+                    <field name="gender"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

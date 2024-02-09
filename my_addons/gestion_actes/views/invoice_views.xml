@@ -1,0 +1,21 @@
+<odoo>
+    <data>
+<!--        <record id="view_invoice_form" model="ir.ui.view">-->
+<!--            <field name="name">gestion_patients.invoice.form</field>-->
+<!--            <field name="model">gestion_patients.invoice</field>-->
+<!--            <field name="arch" type="xml">-->
+<!--                <form string="Facture">-->
+<!--                    <sheet>-->
+<!--                        <group>-->
+<!--                            <field name="name"/>-->
+<!--                            <field name="patient_id"/>-->
+<!--                            <field name="medical_act_ids"/>-->
+<!--                            <field name="total_amount"/>-->
+<!--                            &lt;!&ndash; Ajoutez d'autres champs ici &ndash;&gt;-->
+<!--                        </group>-->
+<!--                    </sheet>-->
+<!--                </form>-->
+<!--            </field>-->
+<!--        </record>-->
+    </data>
+</odoo>
